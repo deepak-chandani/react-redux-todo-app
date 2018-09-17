@@ -1,0 +1,8 @@
+.user-switcher {
+    display:flex;
+    flex-direction: row;
+}
+
+.user-switcher a{
+    margin: 0 7px;
+}
